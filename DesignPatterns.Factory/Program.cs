@@ -1,5 +1,4 @@
 ﻿using DesignPatterns.Factory;
-using DesignPatterns.Factory.Concrete;
 using DesignPatterns.Factory.Models;
 
 class Program

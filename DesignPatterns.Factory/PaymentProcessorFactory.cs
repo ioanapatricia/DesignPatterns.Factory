@@ -1,7 +1,7 @@
-﻿
+﻿using DesignPatterns.Factory.Concrete;
 using DesignPatterns.Factory.Models;
 
-namespace DesignPatterns.Factory.Concrete
+namespace DesignPatterns.Factory
 {
 
     internal class PaymentProcessorFactory : IPaymentProcessorFactory
